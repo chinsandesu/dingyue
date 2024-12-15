@@ -6,6 +6,8 @@ DOMAIN-KEYWORD,Claude
 DOMAIN-KEYWORD,chatgpt
 DOMAIN-KEYWORD,copilot
 DOMAIN-KEYWORD,claude
+DOMAIN-KEYWORD, bing
+
 # 域名后缀匹配
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,chatgpt.com
